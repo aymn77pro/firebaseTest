@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "89725336781",
+    "project_id": "ultra-aymn-1",
+    "storage_bucket": "ultra-aymn-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89725336781:android:b3dd61446fc0fead7cbd84",
+        "android_client_info": {
+          "package_name": "com.example.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89725336781-phn398g6h1jjfbkpafmpg55h2g88i7pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP9o0GLPOgjzW-2UrzqN3FHziZUxw3Xh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89725336781-phn398g6h1jjfbkpafmpg55h2g88i7pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
